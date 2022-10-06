@@ -16,7 +16,7 @@
 > Uma integração onde nos comunicamos com o Erp e coletamos todas as informações para que o Wms possa realizar o controle com perfeição do seu CD, e uma integração extremamente rapida e com uma maior facilidade de desenvolvimento.
 
 <div>
-<a href="https://github.com/wmsexpert/docs/blob/main/README.md">Documentação de Views</a>
+<a href="https://github.com/wmsexpert/docs/blob/main/README.md" target="_blank">Documentação de Views</a>
 </div>
 
 ##
@@ -26,5 +26,5 @@
 > Uma integração extremamente veloz para quem tem a necessidade de trabalhar com dados em tempo real e com a padronização que o mercado exige, uma integração que depende da WmsExpert e do Erp para ser desenvolvida.
 
 <div>
-<a href="http://191.252.156.192:8181/swagger-ui.html#/">Documentação da API</a>
+<a href="http://191.252.156.192:8181/swagger-ui.html#/" target="_blank">Documentação da API</a>
 </div>
